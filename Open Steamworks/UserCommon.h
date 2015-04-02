@@ -358,6 +358,7 @@ struct ValidateAuthTicketResponse_t
 
 	CSteamID m_SteamID;
 	EAuthSessionResponse m_eAuthSessionResponse;
+	CSteamID m_OwnerSteamID;
 };
 
 //-----------------------------------------------------------------------------
